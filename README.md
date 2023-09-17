@@ -1,12 +1,22 @@
-# GitHub for Students
+# GitHub Workshop for Beginners by AmiaY Workshops and Merch
 
-repository for my workshops on "GitHub for beginners".
+welcome to the workshop on GitHub for beginners.
 
-Note: The workshop is meant for total beginners only. If you have already used GitHub, then, this workshop won't help. 
+# Location
 
-Note: Windows laptop recommened for this workshop. 
+Hebbal Kempapura. Exact location along with date and time details will be shared in the confirmation email. 
 
-Note: I will be using Windows or Mac or both laptops in the workshop.
+# Invitate Only Event
+
+To join this in person, classroom workshop, you have to send an email to jay@thechalakas.com along with the following details
+
+1. Name
+1. College Details (if student)
+1. Company Details (if working)
+
+Please put subject in email, "GitHub Workshop for Beginners". You will get a response if you are selected for workshop. 
+
+Only with confirmation email, you can attend the workshop. 
 
 # Workshop GamePlan
 
@@ -27,6 +37,10 @@ Note: I will be using Windows or Mac or both laptops in the workshop.
 1. Thank you and Wrap Up
 
 Estimated duration: 2 t0 4 hours. The idea is to finish this as early as possible before I get bored. 
+
+1. Note: The workshop is meant for total beginners only. If you have already used GitHub, then, this workshop won't help. 
+1. Note: Windows laptop recommened for this workshop. 
+1. Note: I will be using Windows or Mac or both laptops in the workshop.
 
 # Preparing for the Workshop
 
