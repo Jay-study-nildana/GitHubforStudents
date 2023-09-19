@@ -4,11 +4,11 @@ welcome to the workshop on GitHub for beginners.
 
 # Location
 
-Hebbal Kempapura. Exact location along with date and time details will be shared in the confirmation email. 
+Hebbal Kempapura. Exact location along with date and time details will be shared in the confirmation email. visit our website, [amiay](http://amiay.in), for more details.
 
 # Invitate Only Event
 
-To join this in person, classroom workshop, you have to send an email to jay@thechalakas.com along with the following details
+To join this in person, classroom workshop, you have to send an email to jay@amiay.in along with the following details
 
 1. Name
 1. College Details (if student)
